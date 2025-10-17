@@ -117,7 +117,7 @@ Once you chose the way to handle Auto Antibodies, keep its id (`autoAntibodyOpti
 endpoint request).
 
 
-6/ Once that works, you can use the /api/ImputationModeOptions endpoint.
+6/ Once that works, you can use the /api/ImputationModeOptions endpoint. See [1](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tan.15222) and [2](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tan.70197) for more details about what is imputation and the models we use.
 You should make a GET request. You should get a 200 OK response with the following payload:
 ```
 [
